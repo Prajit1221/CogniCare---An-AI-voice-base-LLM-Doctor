@@ -1,10 +1,13 @@
-#CogniCare: Your AI-Powered Diagnostic Assistant
+# CogniCare: Your AI-Powered Diagnostic Assistant
+
 📝 Project Overview
+
 CogniCare is an innovative, end-to-end AI system designed to assist users in identifying potential health conditions through a combination of image and voice analysis. Acting as a first-line diagnostic assistant, CogniCare uses advanced AI and Large Language Models (LLMs) to process user-provided inputs, generate a differential diagnosis, and communicate the results in a clear, conversational voice.
 
 The project's core mission is to make healthcare more accessible and intuitive by leveraging multimodal AI to provide preliminary health insights, empowering users to make informed decisions about seeking professional medical care.
 
 🚀 Key Features
+
 Multimodal Input Processing: Seamlessly integrates data from two primary sources:
 
 Image Analysis: Users can upload images (e.g., photos of a rash, a skin lesion, etc.) for visual analysis. Our computer vision models are trained to identify patterns and abnormalities indicative of various conditions.
@@ -18,6 +21,7 @@ Intuitive Voice Output: The final diagnostic output from the LLM is converted in
 End-to-End Workflow: The project is a complete pipeline, handling everything from data input and processing to the final voice-based output, all within a single, cohesive system.
 
 ⚙️ How It Works
+
 User Input: The user provides an image and a verbal description of their symptoms.
 
 Data Processing: The image is sent to an image analysis model, and the voice input is transcribed and analyzed.
@@ -31,10 +35,13 @@ Voice Generation: The diagnostic summary is passed to a TTS engine, which genera
 User Communication: The user hears the AI-generated diagnostic insights, including potential conditions and a disclaimer emphasizing the need for professional medical consultation.
 
 ⚠️ Important Disclaimer
+
 CogniCare is a preliminary diagnostic tool and not a substitute for professional medical advice. The information provided is for informational purposes only and should not be used to self-diagnose or treat any health condition. Always consult with a qualified healthcare professional for any medical concerns.
 
 🤝 Contributions
+
 We welcome contributions from developers, researchers, and healthcare professionals interested in advancing AI-powered healthcare. Please see our CONTRIBUTING.md file for more details.
 
 📧 Contact
-For any inquiries, please contact prajit.bhalala1221@gmail.com.
+
+For any inquiries, please contact [Your Contact Information].
