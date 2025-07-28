@@ -1,4 +1,4 @@
-CogniCare: Your AI-Powered Diagnostic Assistant
+#CogniCare: Your AI-Powered Diagnostic Assistant
 📝 Project Overview
 CogniCare is an innovative, end-to-end AI system designed to assist users in identifying potential health conditions through a combination of image and voice analysis. Acting as a first-line diagnostic assistant, CogniCare uses advanced AI and Large Language Models (LLMs) to process user-provided inputs, generate a differential diagnosis, and communicate the results in a clear, conversational voice.
 
